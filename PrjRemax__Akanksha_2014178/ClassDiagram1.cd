@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PrjRemax__Akanksha_2014178.clsHouse">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAEAQiAAAAgCAkAAUQAAAAEAAACAAABCAAAAAA=</HashCode>
+      <FileName>clsHouse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjRemax__Akanksha_2014178.clsListHouses">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAQAAAAAAAAQAQAAAAEIAAAAAAAAgAEAAAA=</HashCode>
+      <FileName>clsListHouses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjRemax__Akanksha_2014178.clsClient">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAgAAAAAAAAAAAAAEAQAAAAABAAAAAAAAAACAAAA=</HashCode>
+      <FileName>clsClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjRemax__Akanksha_2014178.clsEmployee">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAEAAAQACAABASAACAAAAABDAAAAAACAAAA=</HashCode>
+      <FileName>clsEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjRemax__Akanksha_2014178.clsCompany">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAEAAhAAAAAEABAAAhgAACAACI=</HashCode>
+      <FileName>clsCompany.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjRemax__Akanksha_2014178.clsListClient">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAAAAAAAQAQAAAAEIAAAAAAAAgAkAAAA=</HashCode>
+      <FileName>clsListCient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjRemax__Akanksha_2014178.clsListEmployees">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAIAAAAAAAAAAAAAQAQAAAAEIAAAAAAAAgAEAAAA=</HashCode>
+      <FileName>clsListEmployees.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjRemax__Akanksha_2014178.clsAddress">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAEAAAIIAAAAQAAEAAAQAAAAAAAAgAIABA=</HashCode>
+      <FileName>clsAddress.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PrjRemax__Akanksha_2014178.clsUser">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EABCAAAAAAQAAAAAAAIAARQAAAAQAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>clsUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

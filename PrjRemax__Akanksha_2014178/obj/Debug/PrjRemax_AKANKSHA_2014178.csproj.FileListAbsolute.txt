@@ -1,0 +1,11 @@
+C:\Users\akank\source\repos\PrjRemax_AKANKSHA_2014178\PrjRemax_AKANKSHA_2014178\obj\Debug\PrjRemax_AKANKSHA_2014178.csprojAssemblyReference.cache
+C:\Users\akank\source\repos\PrjRemax_AKANKSHA_2014178\PrjRemax_AKANKSHA_2014178\obj\Debug\PrjRemax_AKANKSHA_2014178.Properties.Resources.resources
+C:\Users\akank\source\repos\PrjRemax_AKANKSHA_2014178\PrjRemax_AKANKSHA_2014178\obj\Debug\PrjRemax_AKANKSHA_2014178.csproj.GenerateResource.cache
+C:\Users\akank\source\repos\PrjRemax_AKANKSHA_2014178\PrjRemax_AKANKSHA_2014178\obj\Debug\PrjRemax_AKANKSHA_2014178.csproj.CoreCompileInputs.cache
+C:\Users\akank\source\repos\PrjRemax_AKANKSHA_2014178\PrjRemax_AKANKSHA_2014178\bin\Debug\PrjRemax_AKANKSHA_2014178.exe.config
+C:\Users\akank\source\repos\PrjRemax_AKANKSHA_2014178\PrjRemax_AKANKSHA_2014178\bin\Debug\PrjRemax_AKANKSHA_2014178.exe
+C:\Users\akank\source\repos\PrjRemax_AKANKSHA_2014178\PrjRemax_AKANKSHA_2014178\bin\Debug\PrjRemax_AKANKSHA_2014178.pdb
+C:\Users\akank\source\repos\PrjRemax_AKANKSHA_2014178\PrjRemax_AKANKSHA_2014178\obj\Debug\PrjRemax_AKANKSHA_2014178.exe
+C:\Users\akank\source\repos\PrjRemax_AKANKSHA_2014178\PrjRemax_AKANKSHA_2014178\obj\Debug\PrjRemax_AKANKSHA_2014178.pdb
+C:\Users\akank\source\repos\PrjRemax_AKANKSHA_2014178\PrjRemax_AKANKSHA_2014178\obj\Debug\PrjRemax_AKANKSHA_2014178.FrmEmployees.resources
+C:\Users\akank\source\repos\PrjRemax_AKANKSHA_2014178\PrjRemax_AKANKSHA_2014178\obj\Debug\PrjRemax_AKANKSHA_2014178.frmLogin.resources
